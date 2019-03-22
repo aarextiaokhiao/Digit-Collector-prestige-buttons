@@ -1,0 +1,137 @@
+.tabbtn {
+	background-color: #bfbfbf;
+	border: none;
+	font-size: 24px;
+	font-weight: bold;
+	transition-duration: 0.2s
+}
+
+.tabbtn:hover {
+	background-color: #dfdfdf
+}
+
+#add {
+	background-color: #7f7f7f;
+}
+
+#add:hover {
+	background-color: #9f9f9f;
+}
+
+#multiply {
+	background-color: #3f3f3f;
+	color: #ffffff
+}
+
+#multiply:hover {
+	background-color: #5f5f5f;
+}
+
+#power {
+	background-color: #000000;
+	color: #ffffff
+}
+
+#power:hover {
+	background-color: #1f1f1f;
+}
+
+#ascend {
+	background-color: #000000;
+	color: #ffff00
+}
+
+#ascend:hover {
+	background-color: #ffff00;
+	color: #000000
+}
+
+#transcend {
+	background-color: #000000;
+	color: #3f00ff
+}
+
+#transcend:hover {
+	background-color: #3f00ff;
+	color: #000000
+}
+
+#beyond {
+	background-color: #000000;
+	color: #ff00bf
+}
+
+#beyond:hover {
+	background-color: #ff00bf;
+	color: #000000
+}
+
+#enchant {
+	background-color: #000000;
+	color: #ff3f00
+}
+
+#enchant:hover {
+	background-color: #ff3f00;
+	color: #000000
+}
+
+#treeify {
+	background-color: #003f00;
+	color: #bf5f00
+}
+
+#treeify:hover {
+	background-color: #bf5f00;
+	color: #003f00
+}
+
+#energetic {
+	background-color: #007f00;
+	color: #00ff00
+}
+
+#energetic:hover {
+	background-color: #00ff00;
+	color: #007f00
+}
+
+#empower {
+	background-color: #bfbf00;
+	color: #ffff7f
+}
+
+#empower:hover {
+	background-color: #ffff7f;
+	color: #bfbf00
+}
+
+#enlighten {
+	background-color: #ffff00;
+	color: #ffffff
+}
+
+#enlighten:hover {
+	background-color: #ffff7f;
+	color: #ffffff
+}
+
+#emgrown {
+	background-color: #7fff00;
+	color: #ffffff
+}
+
+#emgrown:hover {
+	background-color: #bfff7f;
+	color: #ffffff
+}
+
+#regrow {
+	background-color: #00ff00;
+	color: #ffffff
+}
+
+#regrow:hover {
+	background-color: #7fff7f;
+	color: #ffffff
+}
